@@ -1,0 +1,29 @@
+# Derleme çıktıları
+bin/
+target/
+out/
+build/
+*.class
+
+# Eclipse
+.project
+.classpath
+.settings/
+.metadata/
+.factorypath
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# VS Code
+.vscode/
+
+# Diğer
+*.log
+hs_err_pid*
+.env
+.DS_Store
+Thumbs.db
